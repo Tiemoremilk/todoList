@@ -1,7 +1,7 @@
 # 记事本案例
 
 #### 介绍
-#### 【gitte迁移】 记事本demo（todoList）
+#### 【gitee迁移】 记事本demo（todoList）
 效果： http://tiemoremilk.gitee.io/dede
 
 
