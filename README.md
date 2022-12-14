@@ -1,8 +1,8 @@
 # 记事本案例
 
 #### 介绍
-###### gitte迁移记事本小demo（todoList）
-http://chibaobuchipang.gitee.io/dede
+##### gitte迁移记事本小demo（todoList）
+效果：http://tiemoremilk.gitee.io/suning
 
 #### 软件架构
 软件架构说明
